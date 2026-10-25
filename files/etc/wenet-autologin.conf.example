@@ -1,0 +1,11 @@
+# /etc/wenet-autologin.conf
+# Campus portal credentials.  Keep this file root-owned and mode 0600.
+#
+# PHONE: the account you would type in the portal login form
+#        (usually your mobile number).
+# PASS : the same password you use in the browser.
+#
+# Values may be enclosed in quotes if they contain spaces.
+
+PHONE=13800000000
+PASS=change-me
